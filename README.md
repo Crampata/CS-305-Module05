@@ -5,6 +5,7 @@ This simple Github Repo displays the groups favorite foods.
 Insert a C print statement of form:
 
 // NAME OF CONTRIBUTOR
+
 printf("STRING");
 
 where STRING = Your favorite food(s)
