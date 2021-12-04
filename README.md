@@ -1,4 +1,4 @@
-# CS-305-Module05
+#H1 CS-305-Module05
 Get to know our CS-305 Group of Developers!
 This simple Github Repo displays the groups favorite foods.
 
