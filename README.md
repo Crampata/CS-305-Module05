@@ -24,6 +24,12 @@ printf("Fettuccine Alfredo");
 
 printf("Pizza");
 
+
+## Cookies and Milk
+
+  This recent module inclusion increases the amount of cookies and milk in this project by `100%`
+
+
 ## License 
 
 All contributions to CS-305-Module05 are licensed under MIT.
