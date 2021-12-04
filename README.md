@@ -9,4 +9,5 @@ Insert a C print statement of form:
 printf("STRING");
 
 where STRING = Your favorite food(s)
+
 and NAME OF CONTRIBUTOR = Your Github username
